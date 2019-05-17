@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap');
 
 html, body {
   height: 100%;
@@ -6,10 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: gradient;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Baloo Bhai', cursive;
   font-size: 100%;
 }
 
@@ -25,12 +25,12 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Baloo Bhai', cursive;
+  color: #ffb;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3em;
   margin-bottom: 0;
 }
 
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Baloo Bhai', cursive;
   font-size: 1.5em;
   margin-top: .5em;
 }
